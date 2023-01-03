@@ -1,2 +1,2 @@
 # JavaMiniProjects
-I learn Java doing this mini-projects.
+I learned Java doing this mini-projects.
