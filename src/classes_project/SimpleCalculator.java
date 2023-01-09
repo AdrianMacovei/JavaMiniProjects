@@ -1,4 +1,4 @@
-package ClassesProject;
+package classes_project;
 
 public class SimpleCalculator {
     private double firstNumber;

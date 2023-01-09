@@ -1,4 +1,4 @@
-package PointXY;
+package point_xy;
 
 public class Point {
     private int x;
