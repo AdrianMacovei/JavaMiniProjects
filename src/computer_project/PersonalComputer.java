@@ -1,4 +1,4 @@
-package ComputerProject;
+package computer_project;
 
 public class PersonalComputer extends Product{
 
