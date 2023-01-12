@@ -1,4 +1,4 @@
-package CarpetCostCalculator;
+package carpet_cost_calculator;
 
 public class Main {
     public static void main(String[] args) {

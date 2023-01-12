@@ -1,4 +1,4 @@
-package PointXY;
+package point_xy;
 
 public class Main {
     public static void main(String[] args) {

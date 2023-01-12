@@ -1,4 +1,4 @@
-package TheObjectClass;
+package the_object_class;
 
 public class Main {
 
