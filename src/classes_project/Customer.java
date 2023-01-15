@@ -1,4 +1,4 @@
-package ClassesProject;
+package classes_project;
 
 public class Customer {
     private final String name;
