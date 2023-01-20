@@ -1,4 +1,4 @@
-package Inheritance;
+package inheritance;
 
 public class Animal {
     protected String type;

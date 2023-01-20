@@ -1,4 +1,4 @@
-package ComplexOperations;
+package complex_operations;
 
 public class ComplexNumber {
     private double real;
